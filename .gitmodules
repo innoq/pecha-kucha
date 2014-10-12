@@ -2,5 +2,5 @@
 	path = asciidoctor-backends
 	url = git://github.com/asciidoctor/asciidoctor-backends.git
 [submodule "reveal.js"]
-	path = presentaiont/reveal.js
+	path = presentation/reveal.js
 	url = git://github.com/hakimel/reveal.js.git
