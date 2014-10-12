@@ -14,7 +14,7 @@
 :revealjs_controls: false
 :revealjs_keyboard: false
 :revealjs_center: true
-:revealjs_autoSlide: 5000
+:revealjs_autoSlide: 20000
 :revealjs_transition: default
 :revealjs_transitionSpeed: fast
 
