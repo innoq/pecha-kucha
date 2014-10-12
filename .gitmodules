@@ -1,0 +1,3 @@
+[submodule "asciidoctor-backends"]
+	path = asciidoctor-backends
+	url = ./asciidoctor-backends/

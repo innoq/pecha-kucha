@@ -1,0 +1,21 @@
+<Dein Titel hier>
+=================
+:Author:    AlternativeWayToSetOptional Author Name
+:Email:     <AlternativeWayToSetOptional@author.email>
+:Date:      AlternativeWayToSetOptional date
+:Revision:  AlternativeWayToSetOptional version
+
+:presenter: innoQ
+:twitter: innoQ
+:email: info@innoq.com
+:backend: revealjs
+:revealjs_customtheme: ../reveals.js/css/simple.css
+:theme: simple
+:revealjs_controls: false
+:revealjs_keyboard: false
+:revealjs_center: true
+:revealjs_autoSlide: 5000
+:revealjs_transition: default
+:revealjs_transitionSpeed: fast
+
+include::Sample.adoc[]

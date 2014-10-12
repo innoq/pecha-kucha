@@ -1,0 +1,27 @@
+
+== Slide One
+
+* My topic is ...
+
+== Slide Two
+
+Hello World - Good Bye Cruel World
+
+[NOTE.speaker]
+--
+Actually things aren't that bad
+
+--
+
+[data-background="yellow"]
+== Slide Three
+
+Is very yellow
+
+== Slide Four
+
+[%step]
+* this
+* is
+* revealed
+* gradually
