@@ -3,4 +3,4 @@
 	url = ./asciidoctor-backends/
 [submodule "reveal.js"]
 	path = reveal.js
-	url = ./sample-presentation/reveal.js/
+	url = ./presentation/reveal.js/
