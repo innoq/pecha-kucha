@@ -1,3 +1,6 @@
 [submodule "asciidoctor-backends"]
 	path = asciidoctor-backends
 	url = ./asciidoctor-backends/
+[submodule "reveal.js"]
+	path = reveal.js
+	url = ./sample-presentation/reveal.js/
