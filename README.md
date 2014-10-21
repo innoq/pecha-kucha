@@ -5,11 +5,7 @@ Template for pecha kucha slides in asciidoc format.
 
 First you must have installed [asciidoctor](http://asciidoctor.org/).
 
-After `git clone` of this repo init sub modules to get asciidoc-backend and reveal.js:
-
-    git submodule init
-
-    git submodule update
+Use `git clone --recursive` to download this repository along with its submodules.
 
 Add your presentation and include it in `presentation/pecha-kucha.adoc` (just replace Sample.adoc)
 
