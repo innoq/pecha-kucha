@@ -1,5 +1,6 @@
-<Dein Titel hier>
-=================
+1
+=
+
 :Author:    AlternativeWayToSetOptional Author Name
 :Email:     <AlternativeWayToSetOptional@author.email>
 :Date:      AlternativeWayToSetOptional date
@@ -9,8 +10,8 @@
 :twitter: innoQ
 :email: info@innoq.com
 :backend: revealjs
-:revealjs_customtheme: ../reveals.js/css/simple.css
-:theme: simple
+:revealjs_customtheme: ./reveals.js/css/theme/simple.css
+:revealjs_theme: simple
 :revealjs_controls: false
 :revealjs_keyboard: false
 :revealjs_center: true
