@@ -21,7 +21,46 @@ Is very yellow
 == Slide Four
 
 [%step]
-* this
-* is
+* this is
 * revealed
-* gradually
+* every 20 secs
+
+
+== A slide with a block
+
+.Glossary excerpt
+****
+AIM42:: Architecture Improvement Method.
+
+ATAM:: Architecture Tradeoff Analysis Method. Extensively described in
+<<Clemens-ATAM, Clemens-2001>> and <<SEI-ATAM, online by the SEI>>,
+briefly described as <<ATAM, aim42 pattern>>.
+
+SEI:: Software Engineering Institute at the Carnegie Mellon University.
+A federally funded research and development institute,
+sponsored by the US Departement of Defense.
+
+****
+
+== A slide with an ordered list
+
+. Optimize your software and reduce maintenance cost
+. Control risks, issues and technical debt
+. Organizes patterns and practices in three phases (<<Analyze>>, <<Evaluate>> and <<Improve>>)
+. Free and open-source, <<contributions>> welcome.
+. Grounded in practice , proven approaches, backed by serious research.
+
+== A slide with a table
+
+[cols="2*"]
+|===
+| item
+| cycle time (calendar days)
+
+| 123
+| 12
+
+| 124
+| 10
+|===
+
