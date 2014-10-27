@@ -16,5 +16,18 @@ You can build the presentation with this command:
 Open the created file `presentation/pecha-kucha.html` in a browser.
 
 
+Speaker Notes
+-------------
 
+&helli; can be added by adding the following below a slide's contents:
+
+    [NOTE.speaker]
+    --
+    lorem ipsum
+    dolor sit amet
+    --
+
+In order to display speaker notes, the presentation needs to be served via HTTP
+(e.g. using python -m SimpleHTTPServer): Hitting `s` opens them in an
+additional window.
 
